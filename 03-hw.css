@@ -4,6 +4,7 @@ html {
 }
 body {
     box-shadow: 0px 0px 1px 8px #E5EEFC;
+    border-radius: 5px;
 }
 div {
     border: 1px solid lightgray;
@@ -53,6 +54,7 @@ input {
     text-align: center;
     padding-bottom: 22px;
     padding-top:22px;
+    border-radius: 5px;
 }
 button {
     background-color: forestgreen;
