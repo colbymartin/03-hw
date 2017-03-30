@@ -17,6 +17,7 @@ ul {
     margin: 0;
     padding-left: 0;
 }
+/*The below border stylings was to prevent the internal borders to double up*/
 .top {
     border-bottom: 1px solid lightgray;
 }
